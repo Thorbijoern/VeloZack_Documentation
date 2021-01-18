@@ -1,41 +1,20 @@
-Template
-========
+VeloZack_Documentation
+======================
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+Documentation for the easy and modular "VeloZack" bike trailer by Moritz Müller &amp; Felix Ohnesorge - **Work in Progress**
 
-Look how easy it is to use:
+This work, "VeloZack_Documentation", is a derivative of "Bauplan Velozack V3.0" by Moritz Müller &amp; Felix Ohnesorge, used under CC BY SA. "VeloZack_Documentation" is licensed under CC BY SA by "Thorbijoern".
 
-    import project
-    # Get your stuff done
-    project.do_stuff()
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
-Features
---------
 
-- Be awesome
-- Make things faster
+This Project aims to provide simple Documentation/Tutorial/Instructions to enable more people to build a VeloZack bike trailer by themself whithout needing erperience with CAD and other specialiced software.
 
-Installation
-------------
 
-Install $project by running:
+The original Project and all the design files can be found here: https://konglomerat.org/projekte/velozack.html
 
-    install project
-
-Contribute
-----------
-
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
-
-Support
--------
-
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
-
-License
--------
-
-The project is licensed under the BSD license.
+There are also some older ressources here:
+- https://fablabdd.de/category/metafab/workpiece/velozack/
+- https://sketchfab.com/3d-models/velo-zack-10-39f6a2ce50844b7b89a5f657a7437336 - 3D Model of a complete one (Model 1.0)
+- https://www.werkstatt-lastenrad.de/index.php?title=Datei:Velozack_Anh%C3%A4nger.jpg  - another 3D Model of a complete one 
+- https://github.com/velozack - unused Github Account
