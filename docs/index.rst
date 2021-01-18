@@ -6,6 +6,9 @@
 Welcome to Read the Docs Template's documentation!
 ==================================================
 
+.. include:: ../README.rst
+
+
 Contents:
 
 .. toctree::
