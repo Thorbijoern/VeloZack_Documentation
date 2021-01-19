@@ -3,11 +3,12 @@ VeloZack_Documentation
 
 Documentation for the easy and modular "VeloZack" bike trailer by Moritz Müller &amp; Felix Ohnesorge - **Work in Progress**
 
-This work, "VeloZack_Documentation", is a derivative of "Bauplan Velozack V3.0" by Moritz Müller & Felix Ohnesorge, used under CC BY SA. "VeloZack_Documentation" is licensed under CC BY SA by "Thorbijoern".
+|Creative Commons License|
 
-.. raw:: html
+This work, "VeloZack_Documentation", is a derivative of "Bauplan Velozack V3.0" by Moritz Müller & Felix Ohnesorge, used under CC BY SA. "VeloZack_Documentation" is licensed under `Creative Commons Attribution-ShareAlike 4.0 International License <http://creativecommons.org/licenses/by-sa/4.0//>`_ by "Thorbijoern".
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+.. |Creative Commons License| image:: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+   :target: http://creativecommons.org/licenses/by-sa/4.0/
 
 
 This Project aims to provide simple Documentation/Tutorial/Instructions to enable more people to build a VeloZack bike trailer by themself whithout needing erperience with CAD and other specialiced software.
