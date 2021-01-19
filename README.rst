@@ -1,7 +1,7 @@
 VeloZack_Documentation
 ======================
 
-Documentation for the easy and modular "VeloZack" bike trailer by Moritz Müller &amp; Felix Ohnesorge - **Work in Progress**
+Documentation for the easy and modular "VeloZack" bike trailer by Moritz Müller & Felix Ohnesorge - **Work in Progress**
 
 |Creative Commons License|
 
